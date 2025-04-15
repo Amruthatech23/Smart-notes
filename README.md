@@ -6,13 +6,13 @@ It allows users to add, search, edit, and delete notes in a compact and elegant 
 ## 📸 Screenshots
 
 # App Overview
-(https://github.com/Amruthatech23/Smart-notes/blob/Screenshot1.png)
+(Screenshot1.png)
 
 # Adding a Note
-(https://github.com/Amruthatech23/Smart-notes/blob/Screenshot2.png)
+(Screenshot2.png)
 
 # Search Functionality
-(https://github.com/Amruthatech23/Smart-notes/blob/Screenshot3.png)
+(Screenshot3.png)
 
 ## ✨ Features
 
