@@ -24,12 +24,7 @@ It allows users to add, search, edit, and delete notes in a compact and elegant 
 - ❌ Delete notes easily  
 - 🎨 Stylish, responsive, and compact design  
 - 📱 Optimized for a phone-style interface
-  
-
-## 🚀 Live Demo
-
-Try the app live here:  
-👉 https://Amruthatech23.github.io/Smart-notes  
+ 
 
 
 ## 📁 Project Structure
@@ -53,7 +48,7 @@ git clone https://github.com/Amruthatech23/Smart-notes.git cd Smart-notes
 
 2. Open the app:
 - Double-click `index.html` to open it in your browser.
-- Or visit the https://Amruthatech23.github.io/Smart-notes
+
 
 ## 📬 Contact
 For suggestions or feedback:
