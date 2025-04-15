@@ -47,7 +47,7 @@ smart-notes/ │ ├── index.html # Main HTML structure
 git clone https://github.com/Amruthatech23/Smart-notes.git cd Smart-notes
 
 2. Open the app:
-- Double-click `index.html` to open it in your browser.
+Double-click `index.html` to open it in your browser.
 
 
 ## 📬 Contact
