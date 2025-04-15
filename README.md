@@ -14,7 +14,7 @@ It allows users to add, search, edit, and delete notes in a compact and elegant 
 
 
 # Search Functionality
-(![Screenshot3](https://github.com/user-attachments/assets/e874bf81-23c5-4e4e-8b85-3f351351c1bc)
+![Screenshot3](https://github.com/user-attachments/assets/e874bf81-23c5-4e4e-8b85-3f351351c1bc)
 
 
 ## ✨ Features
