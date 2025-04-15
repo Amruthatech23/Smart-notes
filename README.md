@@ -6,7 +6,8 @@ It allows users to add, search, edit, and delete notes in a compact and elegant 
 ## 📸 Screenshots
 
 # App Overview
-Screenshot1.png
+![Screenshot1](https://github.com/user-attachments/assets/b6e75047-8980-4695-ad20-26f8a6ada205)
+
 
 # Adding a Note
 (Screenshot2.png)
