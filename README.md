@@ -53,7 +53,7 @@ git clone https://github.com/Amruthatech23/Smart-notes.git cd Smart-notes
 Double-click `index.html` to open it in your browser.
 
 
-## 📬 Contact
+## Contact
 For suggestions or feedback:
 GitHub: https://github.com/Amruthatech23
 
