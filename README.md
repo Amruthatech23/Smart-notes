@@ -57,6 +57,6 @@ Double-click `index.html` to open it in your browser.
 For suggestions or feedback:
 GitHub: https://github.com/Amruthatech23
 
-Thank you for using Smart Notes!
+Thank you for visiting Smart Notes!
 
 
